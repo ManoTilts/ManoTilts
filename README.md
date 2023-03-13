@@ -72,8 +72,16 @@ class ProfileInfo:
   <a href="https://discord.com/invite/7qK8sfEq2q" target=""><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="mailto:Felipe.Mazzeo.Barbosa@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-mazzeo-barbosa-4a498a235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+
 
 </details>
-
+<br>
+<details>
+    <summary>Discord Activity</summary>
+    <p align="center">
+        <a href="https://discord.com/users/313056647155286016">
+            <img src="https://lanyard.cnrad.dev/api/313056647155286016"></img>
+        </a>
+    </p>
+</details>
+</div>
