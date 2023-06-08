@@ -14,7 +14,7 @@ class ProfileInfo:
         self.sublang = "C"
         self.favoriteFood = "Tikka masala"
         self.MainOs = "Fedora Linux"
-        self.SubOs = "Windows"
+        self.SubOs = "Windows 10"
 ```
 
 
