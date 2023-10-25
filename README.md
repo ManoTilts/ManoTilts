@@ -6,7 +6,7 @@
 class ProfileInfo:
     def __init__(self):
         self.username = "Bobertkiller"
-        self.age = 19
+        self.age = 20
         self.location = "Brazil"
         self.hobby = "Coding & Gaming"
         self.discord = "𝑩𝑰𝑮 𝑴𝑨𝒁𝒁 ♣#2191"
