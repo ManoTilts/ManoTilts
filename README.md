@@ -12,7 +12,7 @@ class ProfileInfo:
         self.discord = "𝑩𝑰𝑮 𝑴𝑨𝒁𝒁 ♣#2191"
         self.mainlang = "Python"
         self.sublang = "C"
-        self.favoriteFood = "Tikka masala"
+        self.favoriteFood = "Sphageti"
         self.MainOs = "Fedora Linux"
         self.SubOs = "Windows 10"
 ```
